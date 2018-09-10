@@ -1,0 +1,8 @@
+main: me.zach.uhc.Core
+name: UHC-Core
+version: 1.0.0
+author: Kozs
+depend: [WorldGuard, WorldEdit, WorldBorder]
+commands:
+    feature:
+    content:

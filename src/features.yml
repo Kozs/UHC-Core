@@ -1,0 +1,11 @@
+features:
+    DeathLightning: false
+    CaveSpiderPoision: false
+    DisableNatRegen: false
+    EpearlDamage: false
+    GhastDrops: false
+    GoldenHeads: false
+    NetherPortals: false
+    PlayerHeads: false
+    PotionNerf: false
+    WitchSpawns: true
